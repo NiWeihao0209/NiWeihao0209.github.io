@@ -10,7 +10,7 @@ redirect_from:
 
 
 Title 1
-======
+------
 
 Title 2
 ------
