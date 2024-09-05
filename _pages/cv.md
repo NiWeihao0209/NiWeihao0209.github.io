@@ -16,7 +16,7 @@ Education
   * major in Cyber Physic System
 * B.S. in Beijing, Beijing University of Posts and Telecommunications 2020-2024
 
-Work experience
+Intership
 ======
 * 2023.10-2024.5: Java & Python development engineer
   * iQiyi, Beijing
