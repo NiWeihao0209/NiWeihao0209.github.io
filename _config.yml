@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "CN et FR"
 title                    : "Homepage"
-title_separator          : "."
+title_separator          : "-"
 name                     : &name "Ni Weihao"
 description              : &description "Trying to make a difference in the world"
 url                      : "https://niweihao0209.github.io"
