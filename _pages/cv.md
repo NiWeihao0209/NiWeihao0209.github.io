@@ -12,17 +12,17 @@ Education
 ------
 * M.S. in Paris, École Polytechnique 2024-now
 * M.S. in Paris, Institut polytechnique de Paris 2024-now
-  major in Cyber Physic System
+  * major in Cyber Physic System
 * B.S. in Beijing, Beijing University of Posts and Telecommunications 2020-2024
 
 Intership
 ------
 * 2023.10-2024.5: Java & Python development engineer
-  iQiyi, Beijing
+  * iQiyi, Beijing
 
 * Fall 2015: Research intern
-  Beijing University of Posts and Telecommunications, Beijing
-  Supervisor: Li Xiao
+  * Beijing University of Posts and Telecommunications, Beijing
+  * Supervisor: Li Xiao
 
   
 
