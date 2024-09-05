@@ -21,7 +21,7 @@ repository               : #"https://github.com/NiWeihao0209"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal.png"
+  avatar           : "site-logo.png"
   name             : "Ni Weihao"
   pronouns         : # example: "she/her"  
   bio              : "Medical Imaging and Time-sequence Prediction"
