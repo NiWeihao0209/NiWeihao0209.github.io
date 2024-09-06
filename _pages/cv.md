@@ -21,19 +21,9 @@ Intership
 * 2023.10-2024.5: Java & Python development engineer
   * iQiyi, Beijing
 
-* Fall 2015: Research intern
+* 2023.11-now1: Research intern
   * Beijing University of Posts and Telecommunications, Beijing
   * Supervisor: Li Xiao
-
-  
-
-Publications
-------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
   
 Service and leadership
 ------
